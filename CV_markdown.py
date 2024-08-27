@@ -7,7 +7,7 @@ with col6:
     st.markdown(" ")
 
 with col7:
-    st.image("C:/fotoCV.jpg",width=300)
+    st.image("fotoCV.jpg",width=300)
     
 with col8:
     st.markdown(" ")
